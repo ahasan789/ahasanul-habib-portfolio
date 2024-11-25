@@ -21,16 +21,16 @@ export const links = [
   },
   {
     name: "Achievements",
-    hash: "#Achievements",
+    hash: "#achivements",
   },
 
   {
     name: "ExtraCaricular",
-    hash: "#ExtraCaricular",
+    hash: "#extraCaricular",
   },
   {
     name: "CapstoneThesis",
-    hash: "#CapstoneThesis",
+    hash: "#capstoneThesis",
   },
   {
     name: "Projects",

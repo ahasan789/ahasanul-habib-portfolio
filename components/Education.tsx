@@ -17,7 +17,7 @@ const Education = () => {
             initial={{ opacity: 0, y: 100 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.175 }}
-            id="about"
+            id="education"
         >
             <SectionHeading>Education </SectionHeading>
             <div className='flex gap-10'>

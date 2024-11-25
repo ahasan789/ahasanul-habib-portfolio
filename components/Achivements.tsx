@@ -18,7 +18,7 @@ const Achivements = () => {
       initial={{ opacity: 0, y: 100 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: 0.175 }}
-      id="about"
+      id="achivements"
     >
       <SectionHeading>Achivements </SectionHeading>
       <div className='flex gap-10'>
