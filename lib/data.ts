@@ -70,23 +70,15 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
-  {
-    title: "MERN Chat App",
-    description:
-      "Create real-time chat applications with MERN stack, leveraging MongoDB, Express.js, React, and Node.js for seamless communication.",
-    tags: ["React", "MongoDB", "Daisy UI", "Tailwind"],
-    imageUrl: chatAppPic,
-    codeUrl: "https://github.com/Abdullah628/MERN-chat-app",
-    demoLiveUrl: "https://chat-app-dep-ak1z.onrender.com"
-  },
+
   {
     title: "Car Hub",
     description:
       "I completed this simple project which is provide different type of car service such as rent, book, car details, search car.",
     tags: ["TypeScript","React", "Next.js", "Tailwind"],
     imageUrl: carHubImg,
-    codeUrl: "https://github.com/Abdullah628/car-hub",
-    demoLiveUrl: "https://car-hub-sand-xi.vercel.app/"
+    codeUrl: "https://github.com/ahasan789/carhub",
+    demoLiveUrl: "https://carhub-six-lake.vercel.app/"
   },
   {
     title: "Shoply",
@@ -94,8 +86,8 @@ export const projectsData = [
       "Shoply e-commerce site. It's a simple online shop made with React and styled nicely with Tailwind CSS. Find cool stuff for your style",
     tags: ["React", "JavaScript", "Tailwind"],
     imageUrl: shoply,
-    codeUrl: "https://github.com/Abdullah628/shoply",
-    demoLiveUrl: "https://shoply-six.vercel.app/"
+    codeUrl: "https://github.com/ahasan789/shoply/tree/main/shoply",
+    demoLiveUrl: "https://shoply-66wv.vercel.app/"
   },
   
 ] as const;
